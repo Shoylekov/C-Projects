@@ -21,8 +21,8 @@ The Super Market Billing System is a simple command-line application that allows
 4. Compile the program using the following command:
    ```bash
    g++ Super_Market.cpp -o Super_Market.exe
-Usage
-When prompted, choose an option:
+## Usage
+### When prompted, choose an option:
 
 1: Load stock in the store (Add items)
 2: View available items
