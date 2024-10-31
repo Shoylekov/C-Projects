@@ -17,39 +17,5 @@ The Super Market Billing System is a simple command-line application that allows
 4. Compile the program using the following command:
    ```bash
    g++ Super_Market.cpp -o Super_Market.exe
-## Usage
-When prompted, choose an option:
-
-1. Load stock in the store (Add items)
-2. View available items
-3. Start shopping
-4. Exit the program
-
-Follow the on-screen prompts to add items, view inventory, or make purchases.
-
-## File Structure
-- `Super_Market.cpp`: The main source code file containing the implementation of the billing system.
-- `Bill.txt`: A text file that stores item details (created/updated by the program).
-
-## Example
-
-### Adding an Item
-```plaintext
-Enter Item Name: Apples
-Enter the price of the item: 2
-Enter the Quantity: 50
-Item added successfully!
-
-Available Items in Store:
-Item | Price | Quantity
-------------------------
-Apples | 2 | 50
-
-Enter Item: Apples
-Enter Quantity: 10
-Item | Price | Quantity | Total Amount
-Apples | 2 | 10 | 20
-
-Total Bill ---------------- : 20 $
-Thank you! Come back again!
-
+   
+### Feel free to submit issues, suggest features, or contribute code
