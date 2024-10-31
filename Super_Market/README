@@ -1,5 +1,5 @@
-# Super Market Billing System
-## Overview
+#Super Market Billing System
+##Overview
 The Super Market Billing System is a simple command-line application that allows users to manage a supermarket's billing operations. Users can add items to the inventory, view available items, and calculate the total bill for purchases. The application demonstrates basic file handling, data validation, and user interaction in C++.
 
 Features
